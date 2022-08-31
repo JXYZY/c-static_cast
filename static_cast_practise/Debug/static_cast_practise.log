@@ -1,8 +1,6 @@
-﻿生成启动时间为 2022/8/31 9:49:50。
+﻿生成启动时间为 2022/8/31 11:16:24。
      1>项目“E:\c++practise\static_cast\static_cast_practise\static_cast_practise\static_cast_practise.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
-         D:\IDES\vs2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\static_cast_practise.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
-         stdafx.cpp
          D:\IDES\vs2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\static_cast_practise.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt static_cast_practise.cpp
          static_cast_practise.cpp
        Link:
@@ -13,4 +11,4 @@
 
 已成功生成。
 
-已用时间 00:00:01.17
+已用时间 00:00:00.48
